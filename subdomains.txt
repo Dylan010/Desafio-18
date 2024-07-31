@@ -1,0 +1,14 @@
+www.vulnweb.com
+test.vulnweb.com
+dev.vulnweb.com
+staging.vulnweb.com
+admin.vulnweb.com
+api.vulnweb.com
+blog.vulnweb.com
+shop.vulnweb.com
+mail.vulnweb.com
+secure.vulnweb.com
+portal.vulnweb.com
+docs.vulnweb.com
+ftp.vulnweb.com
+m.vulnweb.com
